@@ -1,0 +1,30 @@
+* {
+   box-sizing:border-box;
+}
+.box{
+     border:solid 1px black;
+     width:200px;
+     height:200px;
+     margin:20px auto;
+}
+#buttons{
+    font-size:10px;
+    width:60px;
+    height:24px;
+}
+#red{     
+    margin-left:800px;
+    background-color:red;
+}
+#pink{
+    margin-left:10px;
+    background-color:pink;
+}
+#blue{
+    margin-left:10px;
+    background-color:blue;
+}
+#green{
+    margin-left:10px;
+    background-color:green;
+}
